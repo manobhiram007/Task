@@ -3,12 +3,12 @@
 Objective is to set up CI/CD pipelines using Azure Pipelines for provisioning infrastructure across multiple environments (Dev, QA, Staging, and Prod) using Terraform. The infrastructure includes Virtual Machines (VMs), Key Vault, and Storage Accounts.
 
 **<h3>FILES:</h3>**
-**<h5>env.tf:</h5>**
-Defined Terraform modules for provisioning infrastructure across different environments.
 **<h5>main.tf:</h5>** 
 Defined the Azure resources (Resource Group, Virtual Network, Subnet, Network Interface, Virtual Machine, Key Vault, Storage Account) using Terraform.
 **<h5>var.tf:</h5>** 
 Defined variables used in the Terraform configuration of resource names, locations, sizes, etc.
+**<h5>Env.tf:</h5>**
+Defined Terraform modules for provisioning infrastructure across different environments.
 **<h5>azure-pipeline.yml:</h5>** 
 YAML file for setting up CI/CD pipelines for deploying infrastructure changes automatically.
 **<h3>TERRAFORM CONFIGURATION:</h3>**
