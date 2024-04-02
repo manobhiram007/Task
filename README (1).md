@@ -1,6 +1,6 @@
 **<h1>Setup CI/CD pipelines using Azure pipelines</h1>**
 **<h3>Objective:</h3>**
-Onjective is to set up CI/CD pipelines using Azure Pipelines for provisioning infrastructure across multiple environments (Dev, QA, Staging, and Prod) using Terraform. The infrastructure includes Virtual Machines (VMs), Key Vault, and Storage Accounts.
+Objective is to set up CI/CD pipelines using Azure Pipelines for provisioning infrastructure across multiple environments (Dev, QA, Staging, and Prod) using Terraform. The infrastructure includes Virtual Machines (VMs), Key Vault, and Storage Accounts.
 
 **<h3>FILES:</h3>**
 **<h5>env.tf:</h5>**
