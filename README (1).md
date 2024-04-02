@@ -32,10 +32,9 @@ FEEDBACK:
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 **<h2>Results:</h2>**
-![Example Image](Picture1.jpg)
-![Example Image](Picture2.jpg)
-![Example Image](Dev-rg.jpg)
-![Example Image](Preprod-rg.jpg)
-![Example Image](qa-rg.jpg)
-![Example Image](Prod-rg.jpg)
+![Example Image](Deployed.png)
+![Example Image](dev.png)
+![Example Image](prod.png)
+![Example Image](qa.png)
+![Example Image](staging.png)
 
