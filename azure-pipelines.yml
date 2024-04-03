@@ -10,10 +10,10 @@ trigger:
       - Prod/**
 
 variables:
-  CLIENT_ID: "5a7c9b2e-09dd-4b78-b863-de343c1b36e0"
-  CLIENT_SECRET: "yOa8Q~KJJ92NdwCK_2HPmxTgE4T7mgbqZ4Ol2aNA"
-  SUBSCRIPTION_ID: "905e5ecb-b57f-4908-a061-9861012bdc85"
-  TENANT_ID: "9cf21cba-3ac1-4621-a2de-d66ad53e67a0"
+  CLIENT_ID: "b3e85598-bcdf-4591-996f-6c36910b3ae5"
+  CLIENT_SECRET: "abc7eaba-f72e-41ce-a665-3f65c00455c6"
+  SUBSCRIPTION_ID: "7d3398b7-7e76-4a20-b1d7-872bb4a43a4b"
+  TENANT_ID: "8dbef737-48de-43b6-8aa4-7b9caf795e68"
 
 stages:
   - stage: Dev
